@@ -27,7 +27,7 @@
 }
 
 .resizable {
-  position: relative;
+  /* position: relative; */
 
   border: 1px solid rgb(203 213 225);
   border-radius: 0.25rem;
